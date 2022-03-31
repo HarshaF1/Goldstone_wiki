@@ -1,6 +1,0 @@
-[submodule "sm/OpenNetworkLinux"]
-	path = sm/OpenNetworkLinux
-	url = https://github.com/oopt-goldstone/OpenNetworkLinux
-[submodule "sm/sonic-buildimage"]
-	path = sm/sonic-buildimage
-	url = https://github.com/microsonic/sonic-buildimage
